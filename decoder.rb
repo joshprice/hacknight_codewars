@@ -1,8 +1,5 @@
 
 class Decoder
-  def initialize
-  end
-
   def encode(message)
   end
 
