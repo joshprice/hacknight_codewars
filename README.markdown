@@ -56,7 +56,8 @@ Output should be the best team given the constraints (this is *not* the answer):
     Cost: $663000
     Performance: 397
 
-Bonus points if not all combinations are evaluated.
+Bonus points if not all combinations are evaluated. ie it should work (fast) for a realistic player pool of 100+ players
+
 
 Question 4
 ----------
